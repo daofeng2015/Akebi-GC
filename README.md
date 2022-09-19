@@ -12,6 +12,27 @@
 
 [EN](README.md) | [简中](README_zh-Hans.md) | [繁中](README_zh-Hant.md) | [VN](README_vi-vn.md)
 
+## Q/A
+Q: I open the sln file of the project directly with vs, and click on the windows debugger, the error is reported
+
+<img src="https://user-images.githubusercontent.com/14891398/191021311-aa3556b2-f1ed-4e51-8948-2cb571a922e3.png">
+
+A: Please do not click the windows debugger directly, you should use the following way to generate the injector and library files, and then run the injector in the generated folder, select the game exe file
+
+<img src="https://user-images.githubusercontent.com/14891398/191021404-d0ad5be6-f92b-4dc9-8274-2e180310c487.png">
+
+
+Q: I use the injector to select the game, but after entering the game can not call out the function selection interface
+
+A: If you have enabled similar software to detect the game frame rate, such as MSI Afterburner, please close and restart the injector to see, the default shortcut to the menu is F1
+
+Q: Why am I prompted with this when I open the injector?
+<img src="https://media.discordapp.net/attachments/986606549793398804/1021398861824135189/unknown.png">
+
+A:Please close the game and close the launcher before trying to start the injector
+
+
+More Q/A and more updates ....
 ---
 
 <h1 align="center">Getting Started</h1>
